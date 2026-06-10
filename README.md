@@ -104,7 +104,9 @@ Settings are stored per platform:
 ```bash
 pip install pygame
 python Block_Blast.py
-```
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-10 085031" src="https://github.com/user-attachments/assets/9ea3e732-8994-494e-8641-beb66a7b5ff6" />
+
 
 ---
 
